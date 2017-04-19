@@ -2,3 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Inconsolata');
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Alfa Slab One', cursive;
+  text-shadow: 1px 1px 1px #969696;
+}
