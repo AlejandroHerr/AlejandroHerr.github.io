@@ -6,7 +6,7 @@ For some years I have been coding, first as a hobby, and then developing webapps
 Right now I'm heading my career towards coding and web developing.
 Self taught, I try to stay up-to-date on the last trends. I started working with PHP on frameworks such as Silex and Symphony, nowadays I shifted to a javascript enviroment: Node.js, and React (and Redux).
 
-Given my background, I like to play along with Raspberries and Arduinos and some electronics.
+Given my background, I like to play around with Raspberries and Arduinos and some electronics.
 
 I also like to take photos that I later develop in my bathroom/dark room. I barely go out of home without my camera and some spare rolls to shoot.
 
