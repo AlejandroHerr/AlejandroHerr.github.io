@@ -1,6 +1,6 @@
 ## ¡Hola!
 
-My name is Alejandro. I'm a Telecommunications Engineer from Barcleona. Und Ich habe mein Erasmus an der Technische Universität München gemacht. Currently I'm working as network and system administration. 
+My name is Alejandro. I'm a Telecommunications Engineer from Barcleona. Und Ich habe mein Erasmus an der Technische Universität München gemacht. Currently I'm working on network and system administration. 
 
 For some years, I have been coding, first as a hobby, then developing webapps for a non-profit students' association, [ESN UAB](https://esn.org/), I took part in (eventually I became the president of the section). 
 Right now, I'm heading my career towards coding and web developing.
